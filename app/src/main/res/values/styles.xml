@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Theme.AppCompat.NoActionBar.Translucent">
+        <item name="colorPrimaryDark">@color/status_color</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#fffb00ff</color>
+    <color name="primary_pressed">#fff7a6fa</color>
+    <color name="ripple">#fff2f2f2</color>
+    <color name="very_dark_gray">#636363</color>
+    <color name="done">#ff01ee00</color>
+    <color name="level_up">#fffb00ff</color>
+    <color name="card_normal">#ff0093ff</color>
+    <color name="card_name">#ffffff</color>
+    <color name="card_small">#ffeae8e5</color>
+    <color name="status_color">#ffcdcdcd</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inches</string>
+    <string name="delete_begin">"Törölni szeretnéd a "</string>
+    <string name="delete_end">" elemet?"</string>
+    <string name="experience_short">" xp"</string>
+    <string name="level">"szint "</string>
+    <string name="yes">Igen</string>
+    <string name="delete_all">"Minden törlése"</string>
+    <string name="name_new_element">Új elem neve</string>
+    <string name="save">Mentés</string>
+    <string name="save_backup">Biztonsági mentés</string>
+</resources>

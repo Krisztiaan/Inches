@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Inches</string>
+    <string name="level">level </string>
+    <string name="experience_short"> xp</string>
+    <string name="delete_begin">Would you like to delete \'</string>
+    <string name="delete_end">\'?</string>
+    <string name="yes">Yes</string>
+    <string name="save">Save</string>
+    <string name="delete_all">Delete all</string>
+    <string name="name_new_element">New entity\'s name</string>
+    <string name="save_backup">Save backup</string>
+
+</resources>
